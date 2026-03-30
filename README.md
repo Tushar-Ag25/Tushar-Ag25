@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Tushar 👋
 
-<!--
-**Tushar-Ag25/Tushar-Ag25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate at VIT Bhopal, specializing in designing and deploying **Autonomous AI Systems** and **Intelligent Automations**. 
 
-Here are some ideas to get you started:
+My focus is on bridging the gap between raw LLM capabilities and practical, real-world software solutions through multi-agent orchestration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I Build & Architect:**
+* **Multi-Agent Systems:** Orchestrating complex, collaborative AI workflows using **CrewAI** and **LangGraph** to automate high-level reasoning tasks.
+* **RAG Pipelines:** Designing Retrieval-Augmented Generation systems with **Vector Databases** to give AI models long-term memory and context-awareness.
+* **Intelligent Automation:** Building robust visual workflows and API integrations that turn manual business logic into self-executing AI loops.
+* **LLM Engineering:** Crafting advanced, programmatic prompt structures and deploying scalable AI features.
+
+**🛠️ Tech Stack & Architecture:**
+* **AI Frameworks:** LangChain, LangGraph, CrewAI, N8N
+* **Languages:** Python, SQL, C++, Java, JavaScript
+* **Core Competencies:** System Design, API Orchestration, Data Pipeline Automation
+
+**📫 Let's Connect:**
+* **LinkedIn:** 
