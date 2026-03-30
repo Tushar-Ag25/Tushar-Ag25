@@ -16,4 +16,4 @@ My focus is on bridging the gap between raw LLM capabilities and practical, real
 * **Core Competencies:** System Design, API Orchestration, Data Pipeline Automation
 
 **📫 Let's Connect:**
-* **LinkedIn:** 
+* **LinkedIn:** www.linkedin.com/in/ag-tushar
